@@ -1,1 +1,1 @@
-# Word_pochinky
+# Techer project
